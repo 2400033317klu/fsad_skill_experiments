@@ -1,0 +1,10 @@
+package GitLabProject.Skill1;
+
+public class Main {
+	 public static void main(String[] args) {
+	        System.out.println("Hello Git");
+	        System.out.println("new to github");
+	        System.out.println("Learning git commands");
+	    }
+
+}
